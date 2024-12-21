@@ -2,15 +2,10 @@ import { LanguageSwitcher } from "./LanguageSwitcher";
 import { FaBars } from "react-icons/fa";
 import {
   Sheet,
-  SheetClose,
   SheetContent,
-  SheetDescription,
-  SheetFooter,
   SheetHeader,
-  SheetTitle,
   SheetTrigger,
 } from "@/components/ui/sheet";
-import { Button } from "../ui/button";
 import { Links } from "./links";
 
 export const Navbar = () => {
