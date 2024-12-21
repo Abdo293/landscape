@@ -10,9 +10,12 @@ export const Header = () => {
       <p className="text-white text-[22px] font-medium text-center py-5 leading-[1.7] max-md:text-[18px]">
         {t("descripeService")}
       </p>
-      <button className="bg-[#6aaf08] text-white py-4 px-3 font-normal rounded">
+      <a
+        className="bg-[#6aaf08] text-white py-4 px-8 font-normal rounded"
+        href="#services"
+      >
         {t("srvicesBtn")}
-      </button>
+      </a>
     </div>
   );
 };
