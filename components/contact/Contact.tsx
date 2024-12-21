@@ -5,7 +5,10 @@ export const Contact = () => {
   const t = useTranslations("Contact");
   return (
     <div>
-      <div className="container mx-auto max-lg:px-[15px] py-[80px]">
+      <div
+        className="container mx-auto max-lg:px-[15px] py-[80px]"
+        id="contact"
+      >
         <h2 className="text-center text-[36px] font-semibold text-[#333]">
           {t("title")}
         </h2>
