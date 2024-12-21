@@ -1,0 +1,69 @@
+{
+  "Navbar": {
+    "about": "about",
+    "services": "services",
+    "gallery": "gallery",
+    "testimonials": "testimonials",
+    "contact": "contact-us"
+  },
+
+  "Header": {
+    "mainTitle": "Transforming spaces into natural masterpieces",
+    "descripeService": "We specialize in garden design and landscaping, offering you innovative and aesthetic solutions to transform any space into a captivating natural environment. Whether you're looking for a serene home garden or a unique design for commercial spaces, our professional team ensures the highest levels of quality and creativity",
+    "srvicesBtn": "Explore Our Services"
+  },
+
+  "About": {
+    "whoWeAre": "About Us",
+    "firstSec": "At [Company Name], we believe that green spaces bring joy and tranquility to life. Our company was founded out of a love for nature and a desire to transform ideas into vibrant, living gardens.",
+    "secondSec": "Our journey began [number of years] ago, during which we have designed and landscaped numerous gardens and outdoor spaces that have become havens of beauty. Our vision is to create sustainable green environments that reflect our clients' taste and complement their lifestyle.",
+    "thirdSec": "We don’t just design gardens, we create lasting memories in your outdoor spaces. Let us help transform your garden into a green masterpiece",
+    "fourthSec": "We provide garden care services to ensure its flourishing throughout the year, with seasonal maintenance and improvements to keep it beautiful and healthy.",
+    "fifthSec": "We provide lawn care with mowing, fertilization, and weed control to keep your lawn healthy and vibrant year-round.",
+    "listSec1": "We use the latest technologies in garden design and landscaping.",
+    "listSec2": "A team of experts and specialists in landscape engineering.",
+    "listSec3": "We design gardens that reflect the personal character of each client, from small gardens to large projects.",
+    "imgTitle1": "Garden Care",
+    "imgTitle2": "Lawn Care",
+    "listSecTitle": "What makes us unique?",
+    "firstSecTitle": "Introduction",
+    "secondSecTitle": "Story and Vision",
+    "thirdSecTitle": "message"
+  },
+
+  "Services": {
+    "title": "Our Services",
+    "description": "At [Company Name], we offer garden design and maintenance services to bring your vision to life with professionalism. Here are some of our services",
+    "serv1": "Lawn Care",
+    "serv1Desc": "We specialize in lawn care services, including regular mowing, fertilization, and weed control, to ensure that your grass remains green and healthy throughout the year.",
+    "serv2": "Landscape Design",
+    "serv2Desc": "We design innovative gardens that combine beauty with practicality. We use the latest technologies and high-quality materials to create green spaces that add beauty and vitality to your surroundings.",
+    "serv3": "Tree and Planting",
+    "serv3Desc": "We offer tree and plant planting services tailored to your environment and local climate. We help you choose the ideal species that beautify your garden and add a touch of nature.",
+    "serv4": "Garden Consultation",
+    "serv4Desc": "We offer expert consultations to help enhance your green spaces, whether you're renovating an existing garden or seeking new ideas, with advice tailored to your needs."
+  },
+
+  "Gallery": {
+    "title": "Project Gallery",
+    "description": "Explore our garden design and landscaping creations through our photo gallery, where we showcase our best projects, ranging from small gardens to large-scale designs, to suit all tastes and blend with the surrounding environment."
+  },
+
+  "Contact": {
+    "title": "Contact Us",
+    "description": "Here to help! If you have any questions or need support, feel free to reach out to us through the following channels",
+    "addressTitle": "Address",
+    "workHoursTitle": "Working Hours",
+    "contactInfoTitle": "Contact Info",
+    "address": "4321 California St,San Francisco, CA 12345",
+    "workHours": "Monday-Saturday: 07:00 - 18:00",
+    "holiday": "Sunday: Closed",
+    "contactPhone": "Phone: +1 123 456 1234",
+    "contactEmail": "Email: info@company.com",
+    "letMessage": "Leave us a message",
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "sendMsg": "Send Message"
+  }
+}
